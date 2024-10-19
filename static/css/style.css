@@ -1,0 +1,73 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.intro {
+    background-color: rgb(94, 115, 207);
+    text-align: center;
+    padding: 0px;
+    
+    position: fixed;
+    width: 100%;
+}
+
+.navigation {
+    background-color:rgb(109, 102, 160);
+    position: fixed;
+    width:180px;
+    padding: 8px;
+    height: 100%;
+}
+
+.content{
+    float: right;
+    margin-right:400px;
+    margin-top: 80px;
+    
+}
+
+
+
+body{
+    font-family: "Segoe UI"; 
+    background-color: #2f5673;
+}
+
+h1,h2,h3{
+text-align: center; 
+color: #cdd4ca;}
+
+a{
+    color: #cdd4ca;
+    text-decoration: none;}
+
+a:hover{
+color: #440ee4;}
+
+li{
+    list-style: none; 
+    display: inline-block;}
+
+P{
+    font-size: 150%;
+    color: white;
+    }
+    
+.Book_Exhibit{
+    background-color: rgb(113, 119, 184);
+    text-align: center;
+    width: 800px;
+    margin-left:1200px;
+}
+
+.myimg{
+    text-align: center;
+}
+
+.books{
+    text-align: center;
+}
+
+
+
